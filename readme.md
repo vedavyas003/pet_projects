@@ -1,6 +1,6 @@
-# Project Name
+# Pet Projects
 
-This repository contains code samples in R and Python for performing basic data analysis, exploratory data analysis (EDA), classification, regression, and forecasting. The purpose of this project is to demonstrate various data analysis techniques and their applications.
+This repository contains code samples in R and Python for performing basic data analysis, exploratory data analysis (EDA), classification, regression, and forecasting. The purpose of this project is for me to try/practise or demonstrate various data analysis techniques and their applications.
 
 ## Table of Contents
 
@@ -13,7 +13,7 @@ This repository contains code samples in R and Python for performing basic data 
 
 ## Introduction {#introduction}
 
-In this project, we provide code samples written in R and Python to perform data analysis tasks using various techniques. The code samples are organized into different sections based on the analysis type.
+In this project, we have a collation of code samples written in R and Python to perform data analysis tasks using various techniques. The code samples are organized into different sections based on the analysis type.
 
 ## Exploratory Data Analysis (EDA) {#exploratory-data-analysis-eda}
 
